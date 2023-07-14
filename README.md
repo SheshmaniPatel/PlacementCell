@@ -6,7 +6,7 @@
 </p>
 
 ## Hosted URL
---: https://placement-cell-webapp-ytyu.onrender.com/users/signin
+--: https://placement-cell-webapp-ytyu.onrender.com
 
 
 ## Features
